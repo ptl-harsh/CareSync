@@ -62,7 +62,7 @@ npm run dev
 
 ***
 
-##User panel
+## User panel
 
 ![scrrenshot1](screenshots/screenshot1.png)
 ![scrrenshot2](screenshots/screenshot2.png)
@@ -71,7 +71,7 @@ npm run dev
 
 ***
 
-##Admin panel
+## Admin panel
 
 ![scrrenshot5](screenshots/screenshot5.png)
 ![scrrenshot6](screenshots/screenshot6.png)
