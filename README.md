@@ -57,3 +57,21 @@ npm install
 ```bash
 npm run dev
 ```
+
+
+
+***
+
+##User panel
+
+![scrrenshot1](screenshots/screenshot1.png)
+![scrrenshot2](screenshots/screenshot2.png)
+![scrrenshot3](screenshots/screenshot3.png)
+![scrrenshot4](screenshots/screenshot4.png)
+
+***
+
+##Admin panel
+
+![scrrenshot5](screenshots/screenshot5.png)
+![scrrenshot6](screenshots/screenshot6.png)
